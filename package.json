@@ -1,0 +1,15 @@
+{
+  "name": "node.js-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlenioH/Node.js-Web-Server.git",
+  "author": "Alena Hasslacher <alena.hasslacher@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "finalhandler": "^1.1.2",
+    "http-server": "^0.12.3",
+    "node-static": "^0.7.11",
+    "serve-static": "^1.14.1"
+  }
+}
