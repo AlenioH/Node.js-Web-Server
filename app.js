@@ -1,6 +1,6 @@
-let static = require('node-static');
+const serve = require('node-static');
 
-let file = new static.Server('./public');
+const file = new serve.Server('./public');
 
 require('http')
   .createServer(function (request, response) {

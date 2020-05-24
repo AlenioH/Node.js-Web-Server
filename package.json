@@ -1,7 +1,7 @@
 {
   "name": "node.js-web-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "repository": "https://github.com/AlenioH/Node.js-Web-Server.git",
   "author": "Alena Hasslacher <alena.hasslacher@gmail.com>",
   "license": "MIT",
